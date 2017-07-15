@@ -6,12 +6,12 @@
     android:divider="@drawable/divider"
     android:orientation="horizontal"
     android:showDividers="middle"
-    tools:context=".ListActivity"
+    tools:context="io.royaledeep.barbking.ui.quote.ListActivity"
     android:baselineAligned="false">
 
     <fragment
         android:id="@+id/article_list"
-        android:name="de.andreasschrade.androidtemplate.ui.quote.ArticleListFragment"
+        android:name="io.royaledeep.barbking.ui.quote.ArticleListFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="3"

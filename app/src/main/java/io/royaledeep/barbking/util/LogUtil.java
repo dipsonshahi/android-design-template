@@ -1,4 +1,4 @@
-package de.andreasschrade.androidtemplate.util;
+package io.royaledeep.barbking.util;
 
 import android.util.Log;
 
